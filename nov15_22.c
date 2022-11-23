@@ -1,3 +1,4 @@
+//Date: 15 Nov 2022
 #include<stdio.h>
 void q1(int i,int n)
 {
@@ -67,6 +68,7 @@ int q10(int i,int n)
 }
 int main()
 {
+	/*Practice Questions on Recursion */
 	int n;
 	printf("Enter the value of n , to print the first n natural numbers ,their sum  and the fibo. series upto n terms :");
 	scanf("%d",&n);
