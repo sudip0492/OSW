@@ -1,3 +1,4 @@
+//Date:28.11.22
 #include<stdio.h>
 #include<unistd.h>
 void twofork()
