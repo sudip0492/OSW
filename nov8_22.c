@@ -1,4 +1,4 @@
-//Date:28.11.22
+//Date:8.11.22
 #include <stdio.h>
 #include <string.h>
 
